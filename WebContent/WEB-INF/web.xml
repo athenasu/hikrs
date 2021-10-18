@@ -3,6 +3,7 @@
   <!--lucie  -->
   <display-name>hikrs</display-name>
   <welcome-file-list>
+  <!-- vivi test-->
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
     <welcome-file>index.jsp</welcome-file>
